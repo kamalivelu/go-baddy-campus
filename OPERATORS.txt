@@ -1,0 +1,11 @@
+package main
+ import "fmt"
+ 
+ func main(){
+ a:=10
+ b:=3
+ fmt.Println("addition:",a+b)
+ fmt.Println("subraction:",a-b)
+ fmt.Println("multiple:",a*b)
+ fmt.Println("modulus:",a%b)
+ }
